@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_asset.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\drawable_logo_removebg_preview.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\drawable\\logo_removebg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_amita_bold.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\amita_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\drawable_pexels_photo_7130560.jpeg.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\drawable\\pexels_photo_7130560.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_bungee.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\bungee.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_amatic_sc_bold.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\amatic_sc_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\font_ceviche_one.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\font\\ceviche_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\anim_slide.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\dyuvi\\Desktop\\Study\\SDP\\AREDU\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    }
+]

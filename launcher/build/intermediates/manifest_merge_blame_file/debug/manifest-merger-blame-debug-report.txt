@@ -1,0 +1,219 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Dyuti.Trial_6_Comb"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:7:5-12:40
+13        android:anyDensity="true"
+13-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:8:9-34
+14        android:largeScreens="true"
+14-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:9:9-36
+15        android:normalScreens="true"
+15-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:10:9-37
+16        android:smallScreens="true"
+16-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:11:9-36
+17        android:xlargeScreens="true" />
+17-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:12:9-37
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-54
+19-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:19-51
+20
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-65
+21-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-62
+22
+23    <uses-feature
+23-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+24        android:name="android.hardware.camera"
+24-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-47
+25        android:required="true" />
+25-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
+26    <uses-feature
+26-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+27        android:name="android.hardware.camera.autofocus"
+27-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-57
+28        android:required="false" />
+28-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+30        android:name="android.hardware.camera.front"
+30-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-53
+31        android:required="false" />
+31-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
+32    <uses-feature
+32-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+33        android:name="android.hardware.touchscreen"
+33-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-52
+34        android:required="false" />
+34-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
+35    <uses-feature
+35-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+36        android:name="android.hardware.touchscreen.multitouch"
+36-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-63
+37        android:required="false" />
+37-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33
+38    <uses-feature
+38-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:5-32:36
+39        android:name="android.hardware.touchscreen.multitouch.distinct"
+39-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-72
+40        android:required="false" />
+40-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-33
+41
+42    <queries>
+42-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:29:5-31:15
+43        <package android:name="com.google.ar.core" />
+43-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:30:9-54
+43-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:30:18-51
+44    </queries>
+45
+46    <uses-permission android:name="android.permission.INTERNET" />
+46-->[:VuforiaEngine:] C:\Users\dyuvi\.gradle\caches\transforms-3\2be6a53e87c94f4037beb349f57a9d0a\transformed\VuforiaEngine\AndroidManifest.xml:9:5-67
+46-->[:VuforiaEngine:] C:\Users\dyuvi\.gradle\caches\transforms-3\2be6a53e87c94f4037beb349f57a9d0a\transformed\VuforiaEngine\AndroidManifest.xml:9:22-64
+47    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+47-->[:VuforiaEngine:] C:\Users\dyuvi\.gradle\caches\transforms-3\2be6a53e87c94f4037beb349f57a9d0a\transformed\VuforiaEngine\AndroidManifest.xml:11:5-79
+47-->[:VuforiaEngine:] C:\Users\dyuvi\.gradle\caches\transforms-3\2be6a53e87c94f4037beb349f57a9d0a\transformed\VuforiaEngine\AndroidManifest.xml:11:22-76
+48
+49    <application
+49-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:14:5-35:19
+50        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+50-->[com.android.support:support-compat:28.0.0] C:\Users\dyuvi\.gradle\caches\transforms-3\d732f4d1d5007e0f8f7829de1b79d464\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+51        android:debuggable="true"
+52        android:extractNativeLibs="true"
+52-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:15:9-41
+53        android:icon="@mipmap/app_icon"
+53-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:16:9-40
+54        android:label="@string/app_name"
+54-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:17:9-41
+55        android:testOnly="true" >
+56        <activity
+56-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:18:9-21:71
+57            android:name="com.Dyuti.Trial_6_Comb.IntroActivity"
+57-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:19:13-42
+58            android:exported="false"
+58-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:20:13-37
+59            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+59-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:21:13-69
+60        <activity
+60-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:22:9-30:20
+61            android:name="com.Dyuti.Trial_6_Comb.MainActivity"
+61-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:23:13-41
+62            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+62-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:24:13-69
+63            <intent-filter>
+63-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:25:13-29:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:26:17-69
+64-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:26:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:28:17-77
+66-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:28:27-74
+67            </intent-filter>
+68        </activity>
+69
+70        <meta-data
+70-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:32:9-34:57
+71            android:name="preloaded_fonts"
+71-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:33:13-43
+72            android:resource="@array/preloaded_fonts" />
+72-->C:\Users\dyuvi\Desktop\Study\SDP\AREDU\launcher\src\main\AndroidManifest.xml:34:13-54
+73
+74        <activity
+74-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-49:20
+75            android:name="com.unity3d.player.UnityPlayerActivity"
+75-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-66
+76            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+76-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-194
+77            android:hardwareAccelerated="false"
+77-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-48
+78            android:launchMode="singleTask"
+78-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-44
+79            android:resizeableActivity="false"
+79-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-47
+80            android:screenOrientation="landscape"
+80-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-50
+81            android:theme="@style/UnityThemeSelector" >
+81-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-54
+82            <meta-data
+82-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-45:40
+83                android:name="unityplayer.UnityActivity"
+83-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:17-57
+84                android:value="true" />
+84-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:17-37
+85            <meta-data
+85-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-48:40
+86                android:name="android.notch_support"
+86-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:17-53
+87                android:value="true" />
+87-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:17-37
+88        </activity>
+89
+90        <meta-data
+90-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:9-53:33
+91            android:name="unity.splash-mode"
+91-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-45
+92            android:value="0" />
+92-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-30
+93        <meta-data
+93-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:9-56:36
+94            android:name="unity.splash-enable"
+94-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-47
+95            android:value="True" />
+95-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-33
+96        <meta-data
+96-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:9-59:37
+97            android:name="unity.allow-resizable-window"
+97-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-56
+98            android:value="False" />
+98-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:13-34
+99        <meta-data
+99-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:9-62:50
+100            android:name="notch.config"
+100-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-40
+101            android:value="portrait|landscape" />
+101-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-47
+102        <meta-data
+102-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:9-65:68
+103            android:name="unity.build-id"
+103-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-42
+104            android:value="81d1961f-be4f-4077-a529-7064fe2d9f72" />
+104-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-65
+105        <meta-data
+105-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:9-68:40
+106            android:name="com.google.ar.core"
+106-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-46
+107            android:value="optional" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+107-->[:unityLibrary] C:\Users\dyuvi\Desktop\Study\SDP\AREDU\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:13-37
+108        <meta-data
+108-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:36:9-38:41
+109            android:name="com.google.ar.core.min_apk_version"
+109-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:37:13-62
+110            android:value="202940000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+110-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:38:13-38
+111        <activity
+111-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:40:9-46:80
+112            android:name="com.google.ar.core.InstallActivity"
+112-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:41:13-62
+113            android:configChanges="keyboardHidden|orientation|screenSize"
+113-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:42:13-74
+114            android:excludeFromRecents="true"
+114-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:43:13-46
+115            android:exported="false"
+115-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:44:13-37
+116            android:launchMode="singleTop"
+116-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:45:13-43
+117            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+117-->[com.google.ar:core:1.22.0] C:\Users\dyuvi\.gradle\caches\transforms-3\2583841d1eda8216ad778eacf076a644\transformed\core-1.22.0\AndroidManifest.xml:46:13-77
+118    </application>
+119
+120</manifest>

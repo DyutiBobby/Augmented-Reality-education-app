@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :Unityplugin-debug:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc0ff699f5d6621041191853771c1c45/transformed/Unityplugin-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/19f4efd7cf5f62a4ea403816fa3e3dbb/transformed/Unityplugin-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19f4efd7cf5f62a4ea403816fa3e3dbb/transformed/Unityplugin-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19f4efd7cf5f62a4ea403816fa3e3dbb/transformed/Unityplugin-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
